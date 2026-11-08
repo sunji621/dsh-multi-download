@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "多线程下载器",
+    "description": "给 agent 的 HTTP Range 分段并发下载器：多连接并行、断点续传、进度/取消，零依赖。提供 download_file / download_task 工具。"
+  }
+}

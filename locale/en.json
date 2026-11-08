@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Multi-threaded Downloader",
+    "description": "An HTTP Range segmented downloader for the agent: parallel connections, resume support, progress and cancellation, zero dependencies. Exposes download_file / download_task tools."
+  }
+}
